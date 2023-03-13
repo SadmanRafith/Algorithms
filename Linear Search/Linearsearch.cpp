@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
-
 int linearsearch(int *a, int n, int item)
 {
     for(int i=0; i<n; i++)
