@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int *f(int *x, int n)
 {
     int *b = new int [n];
