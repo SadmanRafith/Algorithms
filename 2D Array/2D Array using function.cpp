@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
 int **matrix(int r, int c)
 {
     int **m = new int*[r];  // double pointer are usually used for matrixes
