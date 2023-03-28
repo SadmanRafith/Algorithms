@@ -2,6 +2,7 @@
 using namespace std;
 
 template <typename T>
+
 class Queue {
 private:
     T* arr;
