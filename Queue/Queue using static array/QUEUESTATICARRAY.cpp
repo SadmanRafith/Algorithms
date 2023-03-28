@@ -3,7 +3,6 @@ using namespace std;
 
 #define  MAX_SIZE 100
 
-
 int arr[MAX_SIZE];
 int front = -1, rear = -1;
 
