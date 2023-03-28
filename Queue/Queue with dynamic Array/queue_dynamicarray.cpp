@@ -5,6 +5,7 @@ int* arr;
 int front = -1, rear = -1;
 int size;
 
+
 bool isEmpty() {
     return (front == -1);
 }
