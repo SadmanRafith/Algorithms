@@ -13,7 +13,6 @@ public:
         rear = -1;
     }
     
-
     bool isEmpty() {
         return (front == -1);
     }
