@@ -2,7 +2,6 @@
 This a c++ program where it genraates random number using rand func(_) and prints the data and generates the number using bubble sort algorithm
 */
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
