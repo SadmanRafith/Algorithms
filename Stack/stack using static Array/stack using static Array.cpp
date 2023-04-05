@@ -11,6 +11,7 @@ using namespace std;
 int a[n];
 int top=-1;
 
+
 int isEmpty(){
     return top==-1?1:0;
 }
