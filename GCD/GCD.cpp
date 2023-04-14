@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 int GCD(int n,int m)
 {
     if(n==m)
